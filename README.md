@@ -1,1 +1,5 @@
 # mi_primera_red
+
+El avance de la inteligencia artificial y el aprendizaje automático ha revolucionado la forma en que abordamos diversos problemas en la actualidad. Entre las áreas más relevantes se encuentra el campo de la regresión, donde se busca predecir valores continuos en función de variables de entrada. En este proyecto, nos enfocaremos en la implementación de una pequeña red neuronal utilizando dos de las bibliotecas más populares y potentes en el ámbito del aprendizaje automático: TensorFlow y PyTorch.
+
+El objetivo principal de este proyecto es resolver un problema de regresión específico utilizando ambas bibliotecas, comparar sus enfoques y obtener una visión más profunda de las particularidades de cada una. Para ello, seleccionaremos un conjunto de datos adecuado para el problema y lo prepararemos para el entrenamiento y evaluación de nuestros modelos.
